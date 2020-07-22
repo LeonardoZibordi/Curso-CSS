@@ -1,3 +1,3 @@
 # CursoCSS
 https://leonardozibordi.github.io/Curso-CSS/
-site teste com html e css
+site teste com HTML e CSS
